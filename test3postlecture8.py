@@ -276,6 +276,7 @@ def maze():
 
 import random
 import time
+print("This game was created by Sam Raphaelson on Sunday, July 28th, 2019. with love")
 print("Hello there! Welcome to the world of Nicks.")
 time.sleep(2)
 print("")
